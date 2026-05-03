@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "be4208c5b8b0740a",
+    "type": "split",
+    "children": [
+      {
+        "id": "467a0c018ea1d5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9d8a0672f7094aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mastering Obsidian Vault Version Control with GitHub/Module 7 Troubleshooting and Security Audits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module 7 Troubleshooting and Security Audits"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c9f30b0781c86845",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41646e17bafdfb97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3386bc045bdbecee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25d02f5a685d1db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "832863f83aae9164",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c1982d0eee6aa0c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f29aa75ec8ac036f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23489944d4fc6bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "af4d8e8603ff601f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf8afb48890eb324",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "2d25167ce554aad4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "36ba2cf7ace90eb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eab579d1067c5b80",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8510301775633261",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f9d8a0672f7094aa",
+  "lastOpenFiles": [
+    "README.md",
+    "Mastering Obsidian Vault Version Control with GitHub/Module 6 Enterprise-Scale Key Management.md",
+    "Mastering Obsidian Vault Version Control with GitHub/Module 5 Advanced SSH Key Hardening.md",
+    "Mastering Obsidian Vault Version Control with GitHub/Module 4 Optimizing Workflow with SSH Agent.md",
+    "Mastering Obsidian Vault Version Control with GitHub/Module 3 Deploying Keys to Remote Hosts.md",
+    "Mastering Obsidian Vault Version Control with GitHub/Module 2 Generating and Managing Key Pairs.md",
+    "Mastering Obsidian Vault Version Control with GitHub/Module 1 Cryptographic Foundations of SSH.md",
+    "Mastering Obsidian Vault Version Control with GitHub/Module 7 Troubleshooting and Security Audits.md",
+    "Welcome.md",
+    "Mastering Obsidian Vault Version Control with GitHub"
+  ]
+}
